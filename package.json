@@ -1,0 +1,22 @@
+{
+  "name": "otp_gen",
+  "version": "1.0.0",
+  "description": "Generates One Time Password",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdioleDivine/OTP_gen.git"
+  },
+  "keywords": [
+    "OTP"
+  ],
+  "author": "Adiole Divine",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AdioleDivine/OTP_gen/issues"
+  },
+  "homepage": "https://github.com/AdioleDivine/OTP_gen#readme"
+}
