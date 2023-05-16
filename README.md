@@ -33,6 +33,7 @@ OtpGen.generate(6, {specialChars: false });
 * `options` - optional
   - `digits` - Default: `true` true value includes digits in OTP 
   - `specialChars` - Default: `true` true value includes special Characters in OTP
+  - `alphabets` - Default: `false` true value includes special Characters
 
 
 
